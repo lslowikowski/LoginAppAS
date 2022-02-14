@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">loginAppAS</string>
+    <string name="podaj_e_mail">Podaj e-mail:</string>
+    <string name="hint_email">email</string>
+    <string name="podaj_haslo">Podaj hasło:</string>
+    <string name="powtorz_haslo">Powtórz hasło:</string>
+    <string name="zatwierdz">Zatwierdź</string>
+    <string name="autor">Autor 00000000000</string>
+</resources>
